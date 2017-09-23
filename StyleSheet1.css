@@ -1,0 +1,18 @@
+﻿body
+{
+}
+
+label {
+    padding-right: 5px;
+    text-align: right;
+}
+
+input[type="button"] {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    font-weight: bold;
+    font-family: AcmeFont;
+}
